@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family:;
+    padding-top: 40%;
+    background-color: 
+    
+}
+#fixedheader{
+    position: absolute;
+}
+#brandName {
+    color: black;
+}
+#start{
+    position: relative;
+}
+#menu{
+    margin-top: 10px;
+}
+#menu:nth-child(2n+1){
+    background-color:#ffd795bf;;
+}
+.dishName{
+    font-size: xx-large;
+    padding-left: 1%;
+    background-color: blue;
+    margin-top: 100px;
+}
+.bnt{
+    padding: 5px;
+    background-color: indianred;
+    font-size:xx-large;
+}
+
+@media screen and (min-width: 980px){
+    body{
+        padding-top: 100px;
+    }
+}
+
+
+.navbar{
+    background-color: #ffd795bf;
+}
