@@ -38,7 +38,9 @@ body{
         padding-top: 100px;
     }
 }
-
+#dar li a{
+    color: black;
+}
 
 .navbar{
     background-color: #ffd795bf;
